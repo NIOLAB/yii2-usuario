@@ -294,4 +294,18 @@ return [
     'Unable to disable two-factor authorization.' => 'Het is niet mogelijk om twee-factor-authenticatie uit te schakelen. ',
     'We couldn\'t re-send the mail to confirm your address. ' => 'Het versturen van de bevestigingsmail is mislukt. ',
     'We have sent confirmation links to both old and new email addresses. ' => 'We hebben bevestingsmails naar je oude en je nieuwe e-mailadres verstuurd. ',
+    'Error sending registration message to "{email}". Please try again later.' => 'Er is een fout opgetreden bij het versturen van de registratiemail naar "{email}". Probeer het later opnieuw.',
+    'Error sending welcome message to "{email}". Please try again later.' => 'Er is een fout opgetreden bij het versturen van de welkomstmail naar "{email}". Probeer het later opnieuw.',
+    'Required "key" cannot be empty.' => '@@@@',
+    'Required "secret" cannot be empty.' => '@@@@',
+    'Role "{0}" not found. Creating it.' => '@@@@',
+    'Rule class must extend "yii\\rbac\\Rule".' => '@@@@',
+    'The "recaptcha" component must be configured.' => '@@@@',
+    'There is neither role nor permission with name "{0}"' => '@@@@',
+    '{0, date, MMM dd, YYYY HH:mm}' => '@@@@',
+    'An email with instructions to create a new password has been sent to {email} if it is associated with an {appName} account. Your existing password has not been changed.'
+                => 'Een e-mail met de instructies om een nieuw wachtwoord in te stellen is verstuurd naar "{email}", als dit e-mailadres bij ons bekend is. Het bestaande wachtwoord is nog niet veranderd.',
+    'Rule class name' => '@@@@',
+    'Select rule...' => '@@@@',
+    'Two factor authentication protects you in case of stolen credentials' => 'Twee-factor-authenticatie beschermt je tegen gestolen wachtwoorden',
 ];
