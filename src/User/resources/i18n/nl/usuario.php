@@ -304,7 +304,7 @@ return [
     'There is neither role nor permission with name "{0}"' => '@@@@',
     '{0, date, MMM dd, YYYY HH:mm}' => '@@@@',
     'An email with instructions to create a new password has been sent to {email} if it is associated with an {appName} account. Your existing password has not been changed.'
-                => 'Een e-mail met de instructies om een nieuw wachtwoord in te stellen is verstuurd naar "{email}", als dit e-mailadres bij ons bekend is. Het bestaande wachtwoord is nog niet veranderd.',
+                => 'Een e-mail met de instructies om een nieuw wachtwoord in te stellen is verstuurd naar "{email}". Het bestaande wachtwoord is nog niet veranderd.',
     'Rule class name' => '@@@@',
     'Select rule...' => '@@@@',
     'Two factor authentication protects you in case of stolen credentials' => 'Twee-factor-authenticatie beschermt je tegen gestolen wachtwoorden',
